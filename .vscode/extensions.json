@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "wix.vscode-import-cost",
+    "KalimahApps.tailwindcss-kit",
+    "wayou.vscode-todo-highlight",
+    "Gruntfuggly.todo-tree",
+    "Cardinal90.multi-cursor-case-preserve",
+    "formulahendry.auto-rename-tag"
+  ]
+}
