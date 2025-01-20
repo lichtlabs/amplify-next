@@ -67,6 +67,8 @@ A modern, full-stack starter template combining the power of Next.js with AWS Am
 
    Open [http://localhost:3000](http://localhost:3000) to view the application.
 
+   > ⚠️ **Important**: When you're done with development, run `pnpm amplify:cleanup` to destroy and clean up the sandbox resources. This helps prevent unnecessary AWS resource usage.
+
 ## Available Scripts
 
 - `pnpm dev` - Start development server with Turbopack

@@ -9,6 +9,7 @@
     "lint": "next lint",
     "amplify:configure": "npx ampx configure profile",
     "amplify:dev": "npx ampx sandbox",
+    "amplify:cleanup": "npx ampx sandbox delete",
     "format:check": "prettier --check \"**/*.{js,jsx,ts,tsx,json,css,scss,md}\"",
     "format:write": "prettier --write \"**/*.{js,jsx,ts,tsx,json,css,scss,md}\"",
     "ui": "pnpm dlx shadcn@latest"
